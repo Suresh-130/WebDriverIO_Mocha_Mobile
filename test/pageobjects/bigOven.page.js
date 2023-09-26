@@ -505,7 +505,6 @@ class BigOvenPage {
     assert.isTrue(await contentDescText.includes(titleOfRecipe));
     await browser.pause(5000);
   }
-
   //CHECKING THE PRESENCE OF NEW RECIPE
 
   async checkingThePresenceOfNewRecipe(titleOfRecipe) {
