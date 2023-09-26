@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Tue Sep 26 15:01:26 IST 2023","Tue Sep 26 15:02:29 IST 2023","62687","","Verify bigOven application","","","","user can add recipes to his favorites",""
+"broken","Tue Sep 26 15:04:34 IST 2023","Tue Sep 26 15:05:37 IST 2023","62531","","Verify bigOven application","","","","user can post new recipe into application",""
+"broken","Tue Sep 26 15:02:29 IST 2023","Tue Sep 26 15:03:31 IST 2023","62454","","Verify bigOven application","","","","user can add recipe clipper from other websites",""
+"broken","Tue Sep 26 15:03:31 IST 2023","Tue Sep 26 15:04:34 IST 2023","62747","","Verify bigOven application","","","","user should see buy reciepe banner for premium services",""
+"broken","Tue Sep 26 15:05:37 IST 2023","Tue Sep 26 15:06:39 IST 2023","62637","","Verify bigOven application","","","","user should logout successfully",""
+"failed","Tue Sep 26 15:00:02 IST 2023","Tue Sep 26 15:01:26 IST 2023","83983","","Verify bigOven application","","","","user should login with valid credentials",""
+"broken","Tue Sep 26 15:06:39 IST 2023","Tue Sep 26 15:07:42 IST 2023","62425","","Verify bigOven application","","","","user should not login with invalid credentials",""
