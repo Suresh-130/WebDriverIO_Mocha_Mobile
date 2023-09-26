@@ -3,7 +3,6 @@ const { assert } = require("chai");
 //const { expect } = require("chai");
 const utilTools = require("../utils/tools");
 const { platform } = require("../utils/tools");
-
 class BigOvenPage {
   locators = {
     android: {
@@ -483,7 +482,7 @@ class BigOvenPage {
     await this.clickOnBackIcon.click();
     await browser.pause(1000);
   }
- 
+
   // Adding new Recipes
 
   async addingNewRecipes(titleOfRecipe, addingIngradients, addingPreparations) {
